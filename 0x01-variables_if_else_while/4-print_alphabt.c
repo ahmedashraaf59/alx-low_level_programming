@@ -15,12 +15,12 @@ int main(void)
 			{
 				n++;
 				continue;
-				{
+			}
 			putchar(n);
 			n++;
 				}
-			}
-		}
+
+
 			putchar('\n');
 
 	return (0);
