@@ -1,11 +1,13 @@
 #include "main.h"
-
 /**
- * main - Entry point
- * description: putchar
+ * main - main function
+ * _putchar: print the alphabets putchar
  * Return: Always 0
  */
-int main(void)
+
+
+int main(void);
+int _putchar (char c)
 {
 	_putchar('_');
 	_putchar('p');
